@@ -7,6 +7,8 @@
 
 ## 1. Описание
 
+<img src="demonstration/2025-08-08%2015-34-24.gif" width="600" height="350" />
+
 Bash скрипт для запуска frappe с
 модулем [Frappe-client-management](https://github.com/CoolichWithYou/frappe-client-managment/tree/develop)
 
@@ -17,7 +19,6 @@ Bash скрипт для запуска frappe с
 - добавляет приложение на сайт
 
 Для запуска:
-
 Получаем ключ api с [dadata.ru](https://dadata.ru/api/)  
 Создаём `.env` файл по аналогии с `.env.example`  
 Запускаем скрипт `./install.sh`
